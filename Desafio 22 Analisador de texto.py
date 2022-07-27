@@ -1,0 +1,8 @@
+nome=input('Qual seu nome completo').strip()
+print(nome.upper())
+print(nome.lower())
+print(nome.title())
+total=(nome.replace(' ',''))
+print('Total de {} letras'.format(len(total)))
+separa=nome.split()
+print('Seu primeiro nome é {} e tem total de {} letras'.format(separa[1], len(separa[1])))

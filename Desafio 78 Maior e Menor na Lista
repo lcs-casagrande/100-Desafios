@@ -1,0 +1,33 @@
+valores = list()
+pos_maior = list()
+pos_menor = list()
+for c in range(0,5):
+    novo = int(input(f'Digite o valor da posição {c}:'))
+    valores.append(novo)
+    if c == 0:
+        maior=menor=novo
+        pos_maior.append(c)
+        pos_menor.append(c)
+    elif novo> maior:
+        pos_maior=[]
+        maior=novo
+        pos_maior.append(c)
+    elif novo==maior:
+        pos_maior.append(c)
+
+    if novo<menor:
+        pos_menor=[]
+        menor=novo
+        pos_menor.append(c)
+    elif novo==menor:
+        pos_menor.append(c)
+print('-='*20)
+print(f'Você digitou os valores: {valores}')
+
+print(f'O maior valor digitado foi {maior}',end=' nas posições ')
+for p in pos_maior:
+    print(p,end='...')
+print()
+print(f'O menor valor digitado foi {menor}',end=' nas posições ')
+for d in pos_menor:
+    print(d,end='...')

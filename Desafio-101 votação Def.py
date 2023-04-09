@@ -1,6 +1,6 @@
 from datetime import date
 def voto(idade):
-    print('--' * 50)
+    print('--' * 40)
     if idade < 16:
         sit='não vota'
     elif 17< idade < 70:

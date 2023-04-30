@@ -1,13 +1,17 @@
-def fatorial(n, show=False):
-    f = 1
-    for c in range(n, 0, -1):
-        f *= c
+def fatorial (n,show=False):
+    fat=n
+    if show == True:
+        print(f'{n} x ', end='')
+    while n >2:
+        n=n-1
+        fat=fat*n
         if show == True:
-            if c != 1:
-                print(c, end=' x ')
-            else:
-                print(c, end=' = ')
-    return f
+            print(f'{n} X ', end='')
+            if n==2:
+                print('1 = ', end='')
 
 
-print(fatorial(5, True))
+    print(f'{fat}')
+
+
+print(fatorial(5,True))

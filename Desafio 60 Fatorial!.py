@@ -1,7 +1,7 @@
 num = int(input('Digite um numero para calcularmos a fatorial! '))
 num2 = num
 num3 = num
-print('----- Modo 1 (import)-----')
+print('---- Modo 1 (import)----')
 from math import factorial
 fac = factorial(num)
 print('Fatorial de {} é igual a {}' .format(num,fac))

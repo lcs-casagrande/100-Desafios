@@ -7,3 +7,5 @@ Nesse desafio, mostraremos como criar um projeto Python no PyCharm e deixar tudo
 
 Desafio 02:
 Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+
+Desafio 03: Crie um programa que leia dois números e mostre a soma entre eles.

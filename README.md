@@ -9,3 +9,5 @@ Desafio 02:
 Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
 Desafio 03: Crie um programa que leia dois números e mostre a soma entre eles.
+
+Desafio 04: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.

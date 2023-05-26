@@ -12,4 +12,6 @@ Desafio 03: Crie um programa que leia dois números e mostre a soma entre eles.
 
 Desafio 04: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-Desafio 5: Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+Desafio 05: Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+Desafio 06: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada

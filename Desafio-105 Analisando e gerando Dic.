@@ -1,1 +1,46 @@
+#programa base
+def notas(*n,sit=True):
+    '''
 
+    :param n: Uma ou mais notas e situações de varios alunos.
+    :param sit: Valor opcional,indicando se deve ou não exibir a situação.
+    :return: dicionario com varias informações sobre a situação da turma
+    '''
+    dic={}
+    #contagem
+    dic['Quantidade']=len(n)
+    #maior
+    maior = n[0]
+    for a in n:
+        if a > maior:
+            maior = a
+    dic['Maior']=maior
+    #menor
+    menor = n[0]
+    for a in n:
+        if a < menor:
+            menor = a
+    dic['Menor']=menor
+    #média
+    media=0
+    for a in n:
+        media+=a
+    media=media/len(n)
+    dic['Média']=media
+    #Situação
+    if sit == True:
+        if media >=8:
+            dic['Situação']="Otima"
+        elif media >=7:
+            dic['Situação'] = "boa"
+        elif media >=6:
+            dic['Situação'] = "Razoavel"
+        elif media >=4:
+            dic['Situação'] = "Complicada"
+        else:
+            dic['Situação'] = "Ruim"
+    return dic
+# Programa Principal
+
+print(notas(5,10,5,6,1,1, sit=True))
+help(notas)

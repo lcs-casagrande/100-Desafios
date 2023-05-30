@@ -1,1 +1,14 @@
+from time import sleep
+print(30*'\033[0:30:44m~~')
+print('\033[0:37:40mSisetma de Ajuda Python')
+print(30*'\033[0:30:44m~~')
+quest = "help"
+while True:
+    quest=input('\033[0:0:0mFunção ou biblioteca: ')
+    if quest in 'fim':
+        break
+    print(f"\033[0:30:46mAcessando ajuda para {quest}".capitalize())
+    sleep(2)
+    print('\033[0:30:47m')
+    help(quest)
 

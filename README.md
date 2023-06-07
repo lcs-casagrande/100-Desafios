@@ -15,4 +15,6 @@ Desafio 05: Faça um programa que leia um número Inteiro e mostre na tela o seu
 Desafio 06: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada
 Desafio 07: Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 Desafio 08: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+Desafio 09: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 Desafio 10: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+

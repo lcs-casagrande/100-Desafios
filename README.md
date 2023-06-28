@@ -26,3 +26,4 @@ Desafio 15: 15: Escreva um programa que pergunte a quantidade de Km percorridos 
 Utilizando Módulos
 Desafio 16: Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 Desafio 17: Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+Desafio 18: Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.

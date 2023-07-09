@@ -32,3 +32,4 @@ Desafio 19: Um professor quer sortear um dos seus quatro alunos para apagar o qu
 Condições em Python (if..else)
 Desafio 28: Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 Desáfio 29: Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+Desafio 30: Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.

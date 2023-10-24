@@ -41,3 +41,8 @@ Desafio 34: Escreva um programa que pergunte o salário de um funcionário e cal
 Desafio 36: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
 Desafio 37: Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+
+Desafio Python 38: Escreva um programa que leia dois números inteiros e compare-os. Mostrando na tela uma mensagem:
+– O primeiro valor é maior
+– O segundo valor é maior
+– Não existe valor maior, os dois são iguais

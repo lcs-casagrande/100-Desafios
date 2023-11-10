@@ -60,3 +60,8 @@ Desafio Python 39: Faça um programa que leia o ano de nascimento de um jovem e 
 - Até 19 anos: JÚNIOR
 - Até 25 anos: SÊNIOR
 - Acima de 25 anos: MASTER
+
+Desafio Python 042: Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+- EQUILÁTERO: todos os lados iguais
+- ISÓSCELES: dois lados iguais, um diferente
+- ESCALENO: todos os lados diferentes

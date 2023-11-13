@@ -65,3 +65,5 @@ Desafio Python 042: Refaça o DESAFIO 035 dos triângulos, acrescentando o recur
 - EQUILÁTERO: todos os lados iguais
 - ISÓSCELES: dois lados iguais, um diferente
 - ESCALENO: todos os lados diferentes
+
+Desafio Python 033: Faça um programa que leia três números e mostre qual é o maior e qual é o menor.

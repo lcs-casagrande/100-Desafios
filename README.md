@@ -78,3 +78,5 @@ Desafio Python 044: Elabore um programa que calcule o valor a ser pago por um pr
 - à vista no cartão: 5% de desconto
 - em até 2x no cartão: preço formal
 - 3x ou mais no cartão: 20% de juros
+
+ Desafio Python 045: Crie um programa que faça o computador jogar Jokenpô com você.

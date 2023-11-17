@@ -82,3 +82,6 @@ Desafio Python 044: Elabore um programa que calcule o valor a ser pago por um pr
  Desafio Python 045: Crie um programa que faça o computador jogar Jokenpô com você.
 
  Desafio Python 046: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+Desafio Python 047: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+

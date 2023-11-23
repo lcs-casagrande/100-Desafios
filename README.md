@@ -87,3 +87,5 @@ Desafio Python 044: Elabore um programa que calcule o valor a ser pago por um pr
 
 Desafio Python 047: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
+Desafio Python 048: Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+

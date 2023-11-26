@@ -89,3 +89,5 @@ Desafio Python 047: Crie um programa que mostre na tela todos os números pares 
 
 Desafio Python 048: Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
+Desafio Python 49: Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+

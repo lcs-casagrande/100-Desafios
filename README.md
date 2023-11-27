@@ -54,7 +54,7 @@ Desafio Python 39: Faça um programa que leia o ano de nascimento de um jovem e 
 - Média entre 5.0 e 6.9: RECUPERAÇÃO
 - Média 7.0 ou superior: APROVADO
 
- Desafio Python 041: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+Desafio Python 041: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 - Até 9 anos: MIRIM
 - Até 14 anos: INFANTIL
 - Até 19 anos: JÚNIOR
@@ -79,15 +79,17 @@ Desafio Python 044: Elabore um programa que calcule o valor a ser pago por um pr
 - em até 2x no cartão: preço formal
 - 3x ou mais no cartão: 20% de juros
 
- Desafio Python 045: Crie um programa que faça o computador jogar Jokenpô com você.
+Desafio Python 045: Crie um programa que faça o computador jogar Jokenpô com você.
 
- Estrutura de repetição for
+Estrutura de repetição for
 
- Desafio Python 046: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+Desafio Python 046: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
 Desafio Python 047: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
 Desafio Python 048: Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
 Desafio Python 49: Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
+Desafio Python 050: Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 

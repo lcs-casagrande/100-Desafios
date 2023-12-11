@@ -98,3 +98,5 @@ Desafio Python 051: Desenvolva um programa que leia o primeiro termo e a razão 
 Desafio Python 052: Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
 Desafio Python 053: Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+
+Desafio Python 055: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.

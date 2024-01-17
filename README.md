@@ -114,3 +114,7 @@ Desafio Python 059: Crie um programa que leia dois valores e mostre um menu na t
 [ 4 ] novos números
 [ 5 ] sair do programa
 Seu programa deverá realizar a operação solicitada em cada caso.
+
+Desafio Python 060: Faça um programa que leia um número qualquer e mostre o seu fatorial.
+
+Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120
